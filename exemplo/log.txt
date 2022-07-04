@@ -1,0 +1,12 @@
+03/07/2022 20:58:23 - https://www.google.com.br - online: true
+03/07/2022 20:58:23 - https://random-status-code.herokuapp.com - online: true
+03/07/2022 20:58:24 - https://www.formiga.ifmg.edu.br/ - online: true
+03/07/2022 20:58:29 - https://www.google.com.br - online: true
+03/07/2022 20:58:30 - https://random-status-code.herokuapp.com - online: true
+03/07/2022 20:58:30 - https://www.formiga.ifmg.edu.br/ - online: true
+03/07/2022 21:08:06 - https://www.google.com.br - online: true
+03/07/2022 21:08:07 - https://random-status-code.herokuapp.com - online: true
+03/07/2022 21:08:08 - https://www.formiga.ifmg.edu.br/ - online: true
+03/07/2022 21:08:13 - https://www.google.com.br - online: true
+03/07/2022 21:08:13 - https://random-status-code.herokuapp.com - online: false
+03/07/2022 21:08:14 - https://www.formiga.ifmg.edu.br/ - online: true
