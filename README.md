@@ -1,1 +1,5 @@
-# seminario-golang
+![](https://user-images.githubusercontent.com/26224729/177063024-aa304eb5-cce1-4cd4-920b-379971eb1e6d.png)
+![](https://user-images.githubusercontent.com/26224729/177063115-838b095f-e1a1-41c6-8c4c-4d1fb5572f46.png)
+![Golang (2)](https://user-images.githubusercontent.com/26224729/177063172-1a999520-44d3-4057-a8b5-c6b59b6baad3.png)
+![Golang (3)](https://user-images.githubusercontent.com/26224729/177063174-26d93b40-2771-451b-a042-a2df85ba29d1.png)
+![Golang (4)](https://user-images.githubusercontent.com/26224729/177063179-09b17e3e-1400-47b8-bd66-351cc185e187.png)
